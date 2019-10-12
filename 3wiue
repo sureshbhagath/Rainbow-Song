@@ -1,0 +1,6 @@
+#ncude<stdio.h>
+
+void main()
+{
+  printf("rand\n");
+}
